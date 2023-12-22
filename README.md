@@ -4,6 +4,10 @@
 This project was completed to exercise skill in the fundamentals of JavaScript programming. It tackles the challenging task of creating a code mechanism for encryption and decryption of input strings using 3 different encryption ciphers.
 
 ## How to Use
+1. Fork and clone repo
+2. npm install
+3. Start with Live Server (VSCode)
+   
 The code can be demonstrated using a local test web server (e.g., with the Live Server extension for VSCode) which will render the simple HTML file and corresponding JavaScript. The UI will look similar to this:
 ![image](https://github.com/thomaslesperance/decoder-ring/assets/144936700/1fe3d795-d892-4a06-944a-4198db7d7fa1)
 
