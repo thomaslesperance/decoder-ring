@@ -16,7 +16,7 @@ The application offers encryption/decryption for ceasar shift, polybius square, 
 ![image](https://github.com/thomaslesperance/decoder-ring/assets/144936700/557a21a4-4958-4558-8094-2b158322d8ce)
 
 ### Polybius Square
-![image](https://github.com/thomaslesperance/decoder-ring/assets/144936700/f86ef59c-285d-4c34-aa36-e4206dcf2310)
+![Screenshot 2023-12-22 at 11 34 18 AM](https://github.com/thomaslesperance/decoder-ring/assets/144936700/ec5f8e49-ce4c-4172-ad01-1e1db4e46fd7)
 
 ### Substitution
 ![image](https://github.com/thomaslesperance/decoder-ring/assets/144936700/9ac81daf-5564-4b23-a539-0d0ca62244c7)
