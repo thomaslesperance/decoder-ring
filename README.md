@@ -1,2 +1,13 @@
 # decoder-ring
-Project completed for practice with complex algorithms and code testing.
+
+## Context
+This project was completed to exercise skill in the fundamentals of JavaScript programming. It tackles the challenging task of creating a code mechanism for encryption and decryption of input strings using 3 different encryption ciphers.
+
+## How to Use
+
+
+## Features
+
+## Technologies and Tools
+
+## Conclusion
